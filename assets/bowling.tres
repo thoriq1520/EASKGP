@@ -1,6 +1,6 @@
 [gd_resource type="ArrayMesh" load_steps=2 format=2]
 
-[ext_resource path="res://imports/Material_002.material" type="Material" id=1]
+[ext_resource path="res://imports/materigradasi.material" type="Material" id=1]
 
 [resource]
 resource_name = "bowling_Sphere001"
