@@ -33,3 +33,8 @@ func _physics_process(delta):
 	
 	move_and_slide(velocity)
 		
+
+
+func _on_reyna_body_entered(body):
+	if body.name == "Bowling":
+		get_tree().change_scene("res://assets/GameOver.tscn")

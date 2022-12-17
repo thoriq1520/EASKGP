@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/procedural rust material.dae-e17bca9a781219183eb65dc1971f8617.scn"
+path="res://.import/reyna.gltf-0b5d569fe4859e5c2780e099845c7a12.scn"
 
 [deps]
 
-source_file="res://imports/procedural rust material.dae"
-dest_files=[ "res://.import/procedural rust material.dae-e17bca9a781219183eb65dc1971f8617.scn" ]
+source_file="res://imports/reyna.gltf"
+dest_files=[ "res://.import/reyna.gltf-0b5d569fe4859e5c2780e099845c7a12.scn" ]
 
 [params]
 
@@ -18,7 +18,7 @@ nodes/custom_script=""
 nodes/storage=0
 nodes/use_legacy_names=false
 materials/location=1
-materials/storage=2
+materials/storage=1
 materials/keep_on_reimport=true
 meshes/octahedral_compression=true
 meshes/compress=4286
