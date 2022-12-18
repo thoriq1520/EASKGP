@@ -43,10 +43,10 @@ align = 1
 valign = 1
 
 [node name="RichTextLabel" type="RichTextLabel" parent="."]
-margin_left = 234.0
-margin_top = 223.0
-margin_right = 1098.0
-margin_bottom = 635.0
+margin_left = 113.0
+margin_top = 240.0
+margin_right = 1193.0
+margin_bottom = 622.0
 custom_fonts/normal_font = SubResource( 2 )
 text = "Nama   : 1. Irfan Pertrio N.
 			 	      2. Paqih Teguh M.
@@ -54,12 +54,12 @@ text = "Nama   : 1. Irfan Pertrio N.
 Kelas	: 3B - D3 Teknik Informatika
 Tema	: Bowling Man
 Tahun  : 2022
-                                 Component References
+                                                                            Component References
 Bowling                                           --                                                                KoTA 210
 Lantai                                                 --                                                                KoTA 210
 Tembok                                            --                           https://bit.ly/3xYFXtx
 Enemy                                                --                                                               KoTA 210
-Frame                                                 --                                                               KoTA 210
+Bowling Pin from :                                https://free3d.com/3d-model/bowling-pin-v1--196951.html
 
 "
 
